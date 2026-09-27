@@ -1,2 +1,1 @@
-# Clean-temp
-Clean temp
+# Windows Temp Cleaner
